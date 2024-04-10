@@ -11,19 +11,18 @@ dataset
 |   |
 |   +-- 20231229_151643
 |       |
-|       +-- preview.png (first frame video)
-|       +-- raw_log.bz2 (raw capnp log, can be read with openpilot-tools: logreader)
-|       +-- video.hevc (video file, can be read with openpilot-tools: framereader)
-|       +-- processed_log/ (processed logs as numpy arrays, see format for details)
-|   +-- global_pos/ (global poses of camera as numpy arrays, see format for details)
-+-- alonso
-    |
-    +-- preview.png (first frame video)
-    +-- raw_log.bz2 (raw capnp log, can be read with openpilot-tools: logreader)
-    +-- video.hevc (video file, can be read with openpilot-tools: framereader)
-    +-- processed_log/ (processed logs as numpy arrays, see format for details)
-    +-- global_pos/ (global poses of camera as numpy arrays, see format for details)
-
+|       +-- 2023-12-29 15-16-43.csv (raw vehicle data)
+|       +-- 20231229_151643_col.csv (consolidated data file)
+|       +-- 20231229_151643_pre.csv (data file after preprocessing)
+|       +-- 13281086609_ACTIVITY-record.csv (driver's data from health monitor)
+|   +-- 20240103_141959
+|   +-- 20240208_120000
+|   +-- 23241201_290300
++-- andres
++-- furious
++-- pablo
++-- richard
++-- yolanda
 ```
 
 # Publication
