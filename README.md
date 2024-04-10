@@ -38,7 +38,7 @@ year={2024}
 
 # Downloads
 
-The size of POLIDriving is about 20 MB.
+The size of POLIDriving is about 150 MB.
 
 # Contact
 
