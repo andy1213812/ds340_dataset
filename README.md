@@ -1,4 +1,9 @@
+# POLIDriving
+
+
 # Dataset structure
+
+## Directory structure
 
 POLIDriving contains driving data from 5 drivers (alonso, andres, pablo, richard, and yolanda) and also synthetic data from one unreal driver (furious).  
 
@@ -24,6 +29,15 @@ dataset
 +-- richard
 +-- yolanda
 ```
+
+## Data file format
+
+Data files contain the following attributes.
+
+|#|Attribute|Class|Units|
+|-|---|---|---|
+
+
 
 # Publication
 
