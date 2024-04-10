@@ -1,5 +1,6 @@
 # POLIDriving
 
+POLIDriving is a driving dataset that includes data from five heterogeneous sources (driver, vehicle, weather conditions, traffic accidents, and road geometrics characteristics). It contains around 61k observations and 32 attributes. Additionally, it contains 1980 labeled observations with four classes (low, medium, high, and very high) that represent the risk levels of suffering a traffic accident.  
 
 # Dataset structure
 
