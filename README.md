@@ -26,6 +26,10 @@ dataset
 |   +-- 23241201_290300
 +-- andres
 +-- furious
++-- labeled
+|       |
+|       +-- 20240208-120000_lss.csv (labeled data using semi-supervised learning)
+|       +-- 20240208-120000_vld.csv (labeled data verified by an expert)
 +-- pablo
 +-- richard
 +-- yolanda
